@@ -8,11 +8,7 @@
     <artifactId>RMI-Client</artifactId>
     <version>1.0</version>
 
-<<<<<<< HEAD
     <name>RMI-Client</name>
-=======
-    <name>Jumong</name>
->>>>>>> ff58f5e... Project completed.
     <url>https://github.com/elahejalalpour/RMI-Java</url>
 
     <contributors>
